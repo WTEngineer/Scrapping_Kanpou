@@ -8,6 +8,7 @@
 - Selenium Webdriver 
 - BeautifulSoup
 - Numpy
+- Panda
  
 ## Installation: 
 1. Open the command prompt in the root directory of the project. 
