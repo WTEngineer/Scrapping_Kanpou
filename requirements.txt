@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+Requests==2.31.0
+rich==13.4.1
+selenium
+webdriver_manager
+ytmusicapi==1.0.2
+flask
+PyQt5

@@ -1,0 +1,2 @@
+python scraper.py
+pause
