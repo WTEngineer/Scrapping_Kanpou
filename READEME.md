@@ -6,7 +6,8 @@
 ## Tech Stack: 
 - Python 
 - Selenium Webdriver 
-- BeautifulSoup 
+- BeautifulSoup
+- Numpy
  
 ## Installation: 
 1. Open the command prompt in the root directory of the project. 
